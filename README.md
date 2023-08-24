@@ -1,1 +1,1 @@
-# django-user-authentication-with-2FA
+# django user authentication with 2FA
